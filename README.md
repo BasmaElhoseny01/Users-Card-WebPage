@@ -11,9 +11,9 @@ The main page to run is index.js
 <img height="40" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-1024.png" />
 
 ## Screen Shot
-<img src="https://github.com/BasmaElhoseny01/Magic-Paw-Cat-Clinic-website/blob/main/Screen%20Shot.png" alt="Website Screenshot" />
+<img src="https://github.com/BasmaElhoseny01/Users-Card-WebPage/blob/main/Screenshot.png" alt="Website Screenshot" />
 
 ### Notes:
  • The buttons in the header are links but are directed to nothing. Only the links in the footer are directed to my social media accounts.
  • The Counter for the No of users in the header is calcuated automatically. ie if a user is removed the counter is decremented by 1 automatically.
- <img src="https://github.com/BasmaElhoseny01/Magic-Paw-Cat-Clinic-website/blob/main/Screen%20Shot.png" alt="Website Screenshot" />
+ <img src="https://github.com/BasmaElhoseny01/Users-Card-WebPage/blob/main/Screenshot%202.png"/>
