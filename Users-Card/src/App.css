@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Kalam&family=Ubuntu+Mono&display=swap');
+
+/*Main App*/
+/*Header styling*/
+.header {
+  width: 98vw;
+  height: fit-content;
+  margin: auto;
+
+
+  background-color: rgba(235, 232, 231, 0.699);
+  /* rgb(74, 97, 99, 0.5); */
+
+  /*Flex box*/
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+  /* Fixed */
+  position: fixed;
+  top: 0;
+}
+
+/* Logo */
+.header img {
+  width: 150px;
+  margin-top: 1px;
+}
+
+/*Navigation*/
+.header ul {
+  list-style: none;
+  width: 20%;
+
+  font-size: 15pt;
+  text-decoration: none;
+  /* border: dashed 3px blue; */
+
+  /*flex*/
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  align-items: center;
+
+}
+
+.header ul li a {
+  text-decoration: none;
+  color: black;
+
+}
+
+
+/*Esit Users*/
+.Edit {
+  width: 50%;
+
+  padding: 2px;
+  margin: 6vh auto auto 25%;
+  /* margin-top: 6vh; */
+
+  /* background-color: rgb(255, 201, 75, 0.8); */
+  /* background-color:#E3477; */
+  background-color: rgb(255, 215, 0,0.8);
+  
+  border-radius: 10px;
+
+  border: solid 2px rgb(74, 97, 99, 0.5);
+
+  /*flex*/
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+
+  text-align: center;
+  padding: auto;
+  align-items: center;
+
+  /* Fixed */
+  position: fixed;
+  top: 10px;
+}
+
+.options {
+  width: 10%;
+  height: fit-content;
+
+  padding: 2px;
+  margin-left: 10px;
+
+  /* border: dashed 3px blue; */
+
+  /*flex*/
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  text-align: center;
+  padding: auto;
+  align-items: center;
+}
+
+.options a img {
+  width: 40px;
+  margin: 5px;
+}
+
+.countUsers {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.countUsers img {
+  width: 40px;
+  margin: 2px;
+}
+
+.countUsers h2 {
+  margin-left: 5px;
+}
+
+
+/*********************************************************************************/
+/*Users*/
+.Users {
+  margin-top: 22.5vh;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  flex-wrap: wrap;
+}
+
+/*User-Box*/
+.User_Box {
+  background-color: #EBE8E7;
+
+  width: 30%;
+
+  /* border: 4px solid #FFC94B; */
+  /* border: 4px solid gold; */
+
+  border: 1px solid black;
+
+  border-radius: 10px;
+
+  padding: auto;
+  margin: 10px;
+
+  /*Shadow*/
+  /* box-shadow: 10px 10px 5px rgb(74, 97, 99, 0.5); */
+  box-shadow: 10px 10px 5px #F2C76E;
+  
+}
+
+.User_Box img {
+  width: 60px;
+  margin: 3px;
+}
+
+/*Upper Part*/
+.Upper_part {
+  display: flex;
+  flex-direction: row;
+}
+
+/*Name and iD*/
+.Name_and_ID {
+  width: 90%;
+  margin: auto;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+
+}
+
+.Name_and_ID h3 {
+  margin: 2px;
+
+  font-family: 'Kalam', cursive;
+}
+
+/* Name_and_UserName*/
+.Name_and_UserName {
+  width: 100%;
+
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Name_and_UserName h5 {
+  margin: 8px 4px 4px 8px;
+  font-family: 'Kalam', cursive;
+}
+
+.ID {
+  padding-right: 40px;
+
+  font-size: 17pt;
+  font-weight: bold;
+
+}
+
+
+/*Lower Part*/
+.Lower_part {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+/*img+words*/
+.Info {
+  font-size: 14pt;
+  margin: 2px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.Info img {
+  width: 20px;
+  margin: 4px;
+}
+
+
+.Info p {
+  font-family: 'Caveat', cursive;
+}
+
+/********************************************************************************/
+.Follow_Me {
+
+  /* border: dashed 3px blue; */
+  background-color: #F3F3F3;
+  padding: 1px;
+  width: 98%;
+
+  margin: 10px auto 0px auto;
+
+  /* FlexBox */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.social {
+  /* FlexBox */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.social img {
+  width: 25px;
+  height: auto;
+
+  margin: 1px 5px 1px 5px;
+}
+
+/**********************************************************************************************************/
+.Copyrights {
+  margin: 20px auto 0px auto;
+
+  width: 99.5%;
+  height: 20px;
+
+  text-align: center;
+
+  margin: 5px 0px 3px 0px;
+  padding: 1px;
+
+  color: #EBE8E7;
+  background-color: #082340;
+}
+
+
+* {
+  margin: 0;
+}
