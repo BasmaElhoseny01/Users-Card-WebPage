@@ -14,7 +14,7 @@ The main page to run is index.js
 <img src="https://github.com/BasmaElhoseny01/Users-Card-WebPage/blob/main/Screenshot.png" alt="Website Screenshot" />
 
 ### Notes:
- • The buttons in the header are links but are directed to nothing. Only the links in the footer are directed to my social media accounts.
+ • The buttons in the header are links but are directed to nothing. Only the links in the footer are directed to my social media accounts.<br>
  • The Counter for the No of users in the header is calculated automatically. ie if a user is removed the counter is decremented by 1 automatically.
  <img src="https://github.com/BasmaElhoseny01/Users-Card-WebPage/blob/main/Screenshot%202.png"/>
  
