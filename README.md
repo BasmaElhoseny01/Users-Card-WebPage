@@ -3,7 +3,7 @@ This is my first React JS project 🤗. I used Components and props to prevent c
 
 ## This is my first step in the world of React JS. I will build More Generous projects using React😉
 
-This web page is my thord task in web development Course offered by <a href="https://www.facebook.com/BetaAcademy.B">Beta Academy</a>.
+This web page is my third task in web development Course offered by <a href="https://www.facebook.com/BetaAcademy.B">Beta Academy</a>.
 
 The main page to run is index.js
 
