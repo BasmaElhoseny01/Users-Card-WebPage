@@ -7,7 +7,7 @@ This web page is my third task in web development Course offered by <a href="htt
 
 ## 📥 Install the React App
 <ol>
-<li>download the <a href="https://github.com/BasmaElhoseny01/Users-Card-WebPage/tree/main/Users-Card">zip folder of the project</a>.</li>
+<li>download the zip folder of the project</a>.</li>
 <li>unzip folder</li>
 <li>open terimnal</li>
 <li>cd to the folder of the project</li>
